@@ -10,5 +10,17 @@
     </style>
 
     <!-- TODO: Add necessary styles -->
+    <style name="DefaultButton" parent="Widget.MaterialComponents.Button">
+
+    </style>
+    <style name="HeaderText" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TitleText" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
 
 </resources>
